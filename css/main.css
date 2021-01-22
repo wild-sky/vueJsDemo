@@ -201,6 +201,7 @@ p {
 
 .special-items {
     flex-shrink: 1;
+    text-align: center;
 }
 
 .special-text {
