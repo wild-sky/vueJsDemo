@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 0 auto;
     font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
     font-size: 1rem;
 }
@@ -160,12 +160,11 @@ p {
     min-width: 8em;
     text-align: center;
     text-decoration: none;
+    display: flex;
     /*padding: 0.75em 2em;*/
     border-radius: 2em;
-
     transition: all 0.15s ease;
     box-sizing: border-box;
-
     /*text-indent: 1.4em;*/
 }
 
@@ -212,18 +211,15 @@ p {
 
 .highlights {
     display: flex;
+    justify-content: space-evenly;
+    /*max-width: 900px;*/
+    margin: 0 auto;
     margin-bottom: 70px;
-    justify-content: space-around;
-
-    /*width: 80%;*/
-    padding: 2em 30em 2em 30em;
 }
 
 .highlights-items {
-    flex: 1;
-    width: 33%;
+    flex: 0 0 200px;
     padding: 0 2em 0 2em;
-
 }
 
 .highlights-items > h2 {
@@ -256,13 +252,15 @@ p {
 }
 
 .icons {
-    padding: 2em 35em 2em 35em;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+
 }
 
 .icons > a {
-    flex: 1;
+    padding: 20px 20px 20px 20px;
+    flex: 0 0 160px;
 }
 
 .button{
