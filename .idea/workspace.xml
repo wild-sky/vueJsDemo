@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="765e7a53-138f-4240-83de-abb9b003db2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/team.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/team.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1611020248451" duration="677000" />
       <workItem from="1611137731032" duration="1360000" />
       <workItem from="1611189341427" duration="13000" />
-      <workItem from="1611322630480" duration="2500000" />
+      <workItem from="1611322630480" duration="2806000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1610974956372</created>
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611326872946</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed index.html width abnormality">
+      <created>1611327058148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611327058148</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
